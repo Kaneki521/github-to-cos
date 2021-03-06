@@ -11,6 +11,7 @@
 
 ### 二、Actions配置
 
+
 * 1、fork项目
 * 2、启用actions: Settings中点击Actions, 勾选Allow all actions启用actions
 * 2、配置Secret: Settings点击Secrets, New repository secret, 分别填写key和value
